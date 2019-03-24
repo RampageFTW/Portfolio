@@ -1,0 +1,39 @@
+/* Start Contact Me*/
+.contact {
+  background-color: #3b444b;
+}
+
+form {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.form label {
+  font-size: 1.5rem;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 5px;
+  border: none;
+  outline-color: #ec0f0f;
+}
+
+input[type="submit"] {
+  width: initial;
+  background-color: #ec0f0f;
+  color: #eee;
+  padding: 1rem 2rem;
+  border-radius: .8rem;
+  cursor: pointer;
+  transition: background-color 650ms;
+}
+
+input[type="submit"]:hover {
+  color: #fff6f6;
+  background-color: #6b0909;
+}
+/* End Contact Me*/
