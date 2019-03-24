@@ -17,9 +17,14 @@
   opacity: .3;
 }
 
+
 .about-heading h6 {
 font-size: 2rem;
 font-weight: 300;
+}
+
+.about-paragraph {
+  line-height: 3rem;
 }
 
 .profile-img { /* change profile picture to something basic with nuetral background color */
